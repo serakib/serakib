@@ -122,11 +122,11 @@ Every project is a new lesson.
 
 <div align="center">
 
-<a href="https://rakibhasandc27.blogspot.com/"><img src="https://img.shields.io/badge/Portfolio-rakibhasandc27-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://rakibhasandc27.blogspot.com/"><img src="https://img.shields.io/badge/Portfolio-rakibhasan-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
 <a href="https://facebook.com/seadix"><img src="https://img.shields.io/badge/Facebook-seadix-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://t.me/DrSahitto"><img src="https://img.shields.io/badge/Telegram-DrSahitto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://telegram.com/@rakibhasan27"><img src="https://img.shields.io/badge/Telegram-Rakib-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
 <a href="https://wa.me/DrSahitto"><img src="https://img.shields.io/badge/WhatsApp-DrSahitto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
