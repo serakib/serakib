@@ -47,12 +47,60 @@ Every project is a new lesson.
 
 <br/><br/>
 
-| Skill | Proficiency |
-|:---|:---|
-| HTML5 | `████████████████████` 80% |
-| CSS3 | `█████████████████░░░` 45% |
-| JavaScript | `██████████████░░░░░░` 40% |
-| C Programming | `█████████░░░░░░░░░░░` 60% |
+<table>
+  <tr>
+    <th>Skill</th>
+    <th>Proficiency</th>
+  </tr>
+
+  <tr>
+    <td>HTML5</td>
+    <td>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
+          <div style="width:80%;height:100%;background:#8ecae6;"></div>
+        </div>
+        <b>80%</b>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>CSS3</td>
+    <td>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
+          <div style="width:45%;height:100%;background:#8ecae6;"></div>
+        </div>
+        <b>45%</b>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>JavaScript</td>
+    <td>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
+          <div style="width:40%;height:100%;background:#8ecae6;"></div>
+        </div>
+        <b>40%</b>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>C Programming</td>
+    <td>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
+          <div style="width:60%;height:100%;background:#8ecae6;"></div>
+        </div>
+        <b>60%</b>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
