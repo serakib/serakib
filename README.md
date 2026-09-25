@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2744,80:1a3a5c,100:1f6feb&height=220&section=header&text=Abdullah%20Al%20Adib&fontSize=52&fontColor=e6edf3&fontAlignY=42&desc=seadib%20%7C%20Software%20Developer%20%7C%20HSC%202027&descSize=15&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2744,80:1a3a5c,100:1f6feb&height=220&section=header&text=Abdullah%20Al%20RAKIB&fontSize=52&fontColor=e6edf3&fontAlignY=42&desc=serakib%20%7C%20Software%20Developer%20%7C%20HSC%202027&descSize=15&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -47,63 +47,10 @@ Every project is a new lesson.
 
 <br/><br/>
 
-<table>
-  <tr>
-    <th>Skill</th>
-    <th>Proficiency</th>
-  </tr>
-
-  <tr>
-    <td>HTML5</td>
-    <td>
-      <div style="display:flex;align-items:center;gap:8px;">
-        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
-          <div style="width:80%;height:100%;background:#8ecae6;"></div>
-        </div>
-        <b>80%</b>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td>CSS3</td>
-    <td>
-      <div style="display:flex;align-items:center;gap:8px;">
-        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
-          <div style="width:45%;height:100%;background:#8ecae6;"></div>
-        </div>
-        <b>45%</b>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td>JavaScript</td>
-    <td>
-      <div style="display:flex;align-items:center;gap:8px;">
-        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
-          <div style="width:40%;height:100%;background:#8ecae6;"></div>
-        </div>
-        <b>40%</b>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td>C Programming</td>
-    <td>
-      <div style="display:flex;align-items:center;gap:8px;">
-        <div style="width:200px;height:22px;background:#d9e2ec;border-radius:5px;overflow:hidden;">
-          <div style="width:60%;height:100%;background:#8ecae6;"></div>
-        </div>
-        <b>60%</b>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
+HTML5         [███████████████░░░░░] 75%
+CSS3          [██████████░░░░░░░░░░] 50%
+JavaScript    [█████████░░░░░░░░░░░] 45%
+C Programming [███████░░░░░░░░░░░░░] 35%
 ---
 
 ## Projects
@@ -131,7 +78,7 @@ Every project is a new lesson.
     <td align="center" width="240">
       <strong>Personal Blog</strong><br/>
       <sub>Articles, notes and dev writeups</sub><br/><br/>
-      <a href="https://seadib.blogspot.com">
+      <a href="https://rakibhasandc27.blogspot.com">
         <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
       </a>
     </td>
@@ -153,7 +100,7 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=seadib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=serakib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -163,7 +110,7 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seadib&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f2744&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=serakib&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f2744&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -181,7 +128,7 @@ Every project is a new lesson.
 &nbsp;
 <a href="https://wa.me/DrSahitto"><img src="https://img.shields.io/badge/WhatsApp-DrSahitto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="mailto:drseadib@gmail.com"><img src="https://img.shields.io/badge/Email-drseadib@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:rakibhasandc27@gmail.com"><img src="https://img.shields.io/badge/Email-rakibhasandc27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
@@ -193,6 +140,6 @@ Every project is a new lesson.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,60:0f2744,100:0d1117&height=110&section=footer" width="100%"/>
 
-<sub>Abdullah Al Adib &nbsp;&bull;&nbsp; Dhaka, Bangladesh &nbsp;&bull;&nbsp; 2026</sub>
+<sub>Md.Rakib Hasan &nbsp;&bull;&nbsp; Dhaka, Bangladesh &nbsp;&bull;&nbsp; 2026</sub>
 
 </div>
