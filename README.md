@@ -85,7 +85,7 @@ Every project is a new lesson.
       </a>
     </td>
     <td align="center" width="240">
-      <strong>Car Racing</strong><br/>
+      <strong>OverTake</strong><br/>
       <sub>A smooth car Game that reminds childhood.</sub><br/><br/>
       <a href="https://serakib.github.io/OverTake/">
         <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=github&logoColor=white" />
