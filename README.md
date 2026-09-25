@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://adi.pro.bd"><img src="https://img.shields.io/badge/Portfolio-adi.pro.bd-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://rakibhasandc27.blogspot.com/"><img src="https://img.shields.io/badge/Portfolio-adi.pro.bd-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=serakib&label=Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
