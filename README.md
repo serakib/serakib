@@ -48,11 +48,8 @@ Every project is a new lesson.
 <br/><br/>
 
 HTML5          [██████████████░░░░░░] 70%
-
 CSS3           [███████░░░░░░░░░░░░░] 35%
-
 JavaScript     [██████░░░░░░░░░░░░░░] 30%
-
 C Programming  [██████████░░░░░░░░░░] 50%
 ---
 
