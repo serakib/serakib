@@ -122,7 +122,7 @@ Every project is a new lesson.
 
 <div align="center">
 
-<a href="https://adi.pro.bd"><img src="https://img.shields.io/badge/Portfolio-adi.pro.bd-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://adi.pro.bd"><img src="https://img.shields.io/badge/Portfolio-https://rakibhasandc27.blogspot.com/-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
 <a href="https://facebook.com/seadix"><img src="https://img.shields.io/badge/Facebook-seadix-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
