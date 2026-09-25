@@ -128,7 +128,7 @@ Every project is a new lesson.
 &nbsp;
 <a href="https://telegram.com/@rakibhasan27"><img src="https://img.shields.io/badge/Telegram-Rakib-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://wa.me/DrSahitto"><img src="https://img.shields.io/badge/WhatsApp-DrSahitto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-Rakib-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
 <a href="mailto:rakibhasandc27@gmail.com"><img src="https://img.shields.io/badge/Email-rakibhasandc27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
