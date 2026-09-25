@@ -26,7 +26,7 @@
   role     :  Aspiring Software Engineer
   college  :  Dhaka College  |  HSC 2027  |  Science
   location :  Dhaka, Bangladesh
-  goal     :  "Create something no one has done before."
+  goal     :  "Try something better"
 ```
 
 ---
