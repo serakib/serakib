@@ -81,7 +81,7 @@ Every project is a new lesson.
       <strong>Personal Blog</strong><br/>
       <sub>Articles, notes and dev writeups</sub><br/><br/>
       <a href="https://medium.com/@rakibhasan27">
-        <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+        <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" />
       </a>
     </td>
     <td align="center" width="240">
