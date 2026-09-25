@@ -124,7 +124,7 @@ Every project is a new lesson.
 
 <a href="https://rakibhasandc27.blogspot.com/"><img src="https://img.shields.io/badge/Portfolio-rakibhasan-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://facebook.com/seadix"><img src="https://img.shields.io/badge/Facebook-seadix-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.facebook.com/profile.php?id=61579557960701"><img src="https://img.shields.io/badge/Facebook-Rakib-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
 <a href="https://telegram.com/@rakibhasan27"><img src="https://img.shields.io/badge/Telegram-Rakib-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
