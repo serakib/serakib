@@ -62,9 +62,9 @@ Every project is a new lesson.
 <table>
   <tr>
     <td align="center" width="240">
-      <strong>Dhaka College Science Club</strong><br/>
-      <sub>GREENLINE</sub><br/><br/>
-      <a href="https://dhakacollegescienceclub.github.io">
+      <strong>Fallrush</strong><br/>
+      <sub>A creative game for fun</sub><br/><br/>
+      <a href="https://serakib.github.io/Fallrush/">
         <img src="https://img.shields.io/badge/Open_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
