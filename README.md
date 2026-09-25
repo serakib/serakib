@@ -1,44 +1,150 @@
 <div align="center">
 
-# 👋 Hi, I'm Md. Rakib Hasan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2744,80:1a3a5c,100:1f6feb&height=220&section=header&text=Abdullah%20Al%20Adib&fontSize=52&fontColor=e6edf3&fontAlignY=42&desc=seadib%20%7C%20Software%20Developer%20%7C%20HSC%202027&descSize=15&descAlignY=62&animation=fadeIn" width="100%"/>
 
-### Aspiring Software Engineer
+<br/>
 
-<p>
-  <a href="https://github.com/serakib">
-    <img src="https://img.shields.io/badge/GitHub-serakib-black?style=flat-square&logo=github">
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=googlechrome">
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+the+web%2C+one+line+at+a+time.;Dhaka+College+%7C+HSC+2027+%7C+Science.;Learning+every+single+day." alt="Typing" />
+
+<br/><br/>
+
+<a href="https://adi.pro.bd"><img src="https://img.shields.io/badge/Portfolio-adi.pro.bd-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=serakib&label=Views&color=1f6feb&style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<a href="https://github.com/serakib?tab=followers"><img src="https://img.shields.io/github/followers/serakib?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" /></a>
+
+</div>
+
+<br/>
+
+---
+
+```yaml
+  name     :  Md.Rakib Hasan
+  username :  serakib
+  role     :  Aspiring Software Engineer
+  college  :  Dhaka College  |  HSC 2027  |  Science
+  location :  Dhaka, Bangladesh
+  goal     :  "Create something no one has done before."
+```
+
+---
+
+## About Me
+
+I am a student at Dhaka College studying Science, passionate about building things on the web.
+Currently focused on frontend development, expanding into backend and automation.
+Every project is a new lesson.
+
+---
+
+## Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,netlify,vscode&perline=8" alt="Skills" />
+
+<br/><br/>
+
+| Skill | Proficiency |
+|:---|:---|
+| HTML5 | `████████████████████` 80% |
+| CSS3 | `█████████████████░░░` 45% |
+| JavaScript | `██████████████░░░░░░` 40% |
+| C Programming | `█████████░░░░░░░░░░░` 60% |
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Projects
 
-Hello! I'm **Md. Rakib Hasan**, an aspiring software engineer
-passionate about programming, web development, and building
-creative digital projects.
+<div align="center">
 
-I enjoy learning new technologies, solving problems, and
-turning ideas into functional and meaningful applications.
+<table>
+  <tr>
+    <td align="center" width="240">
+      <strong>Dhaka College Science Club</strong><br/>
+      <sub>GREENLINE</sub><br/><br/>
+      <a href="https://dhakacollegescienceclub.github.io">
+        <img src="https://img.shields.io/badge/Open_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="240">
+      <strong>Dhaka College Hall</strong><br/>
+      <sub>Official hall web platform</sub><br/><br/>
+      <a href="https://dchall.netlify.app">
+        <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="240">
+      <strong>Personal Blog</strong><br/>
+      <sub>Articles, notes and dev writeups</sub><br/><br/>
+      <a href="https://seadib.blogspot.com">
+        <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="240">
+      <strong>Dr Sahitto</strong><br/>
+      <sub>Literature and creative writing</sub><br/><br/>
+      <a href="https://drsahitto.blogspot.com">
+        <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 🧑‍💻 Profile
+## GitHub Stats
 
-```text
-Name       : Md. Rakib Hasan
-Username   : serakib
-Role       : Aspiring Software Engineer
-Education  : [YOUR EDUCATION]
-Location   : [YOUR LOCATION]
-Focus      : [YOUR FOCUS]
-Currently  : [WHAT YOU ARE LEARNING]
-Goal       : [YOUR GOAL]
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=seadib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seadib&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f2744&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://adi.pro.bd"><img src="https://img.shields.io/badge/Portfolio-adi.pro.bd-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://facebook.com/seadix"><img src="https://img.shields.io/badge/Facebook-seadix-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://t.me/DrSahitto"><img src="https://img.shields.io/badge/Telegram-DrSahitto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://wa.me/DrSahitto"><img src="https://img.shields.io/badge/WhatsApp-DrSahitto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="mailto:drseadib@gmail.com"><img src="https://img.shields.io/badge/Email-drseadib@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,60:0f2744,100:0d1117&height=110&section=footer" width="100%"/>
+
+<sub>Abdullah Al Adib &nbsp;&bull;&nbsp; Dhaka, Bangladesh &nbsp;&bull;&nbsp; 2026</sub>
+
+</div>
