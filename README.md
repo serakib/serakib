@@ -72,7 +72,7 @@ Every project is a new lesson.
       <strong>GreenLine vPC</strong><br/>
       <sub>A escape model game for entertainment</sub><br/><br/>
       <a href="https://serakib.github.io/GreenLine/">
-        <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -85,10 +85,10 @@ Every project is a new lesson.
       </a>
     </td>
     <td align="center" width="240">
-      <strong>Dr Sahitto</strong><br/>
-      <sub>Literature and creative writing</sub><br/><br/>
-      <a href="https://drsahitto.blogspot.com">
-        <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+      <strong>Car Racing</strong><br/>
+      <sub>A smooth car Game that reminds childhood.</sub><br/><br/>
+      <a href="https://serakib.github.io/OverTake/">
+        <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
