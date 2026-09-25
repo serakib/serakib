@@ -69,7 +69,7 @@ Every project is a new lesson.
       </a>
     </td>
     <td align="center" width="240">
-      <strong>GreenLine</strong><br/>
+      <strong>GreenLine vPC</strong><br/>
       <sub>A escape model game for entertainment</sub><br/><br/>
       <a href="https://serakib.github.io/GreenLine/">
         <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
