@@ -113,7 +113,7 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img src="./stats.svg" alt="GitHub Stats" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
 </div>
 ---
