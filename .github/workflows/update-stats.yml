@@ -13,21 +13,75 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Stats SVG
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: "username=serakib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_radius=10"
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate stats.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          response=$(curl -sS \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/graphql \
+            -d '{"query":"query { user(login: \"serakib\") { name login followers { totalCount } repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC) { totalCount nodes { stargazerCount } } contributionsCollection { contributionCalendar { totalContributions } } } }"}')
 
-      - name: Commit Stats
+          contributions=$(echo "$response" | jq -r '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          followers=$(echo "$response" | jq -r '.data.user.followers.totalCount')
+          repos=$(echo "$response" | jq -r '.data.user.repositories.totalCount')
+          stars=$(echo "$response" | jq '[.data.user.repositories.nodes[].stargazerCount] | add // 0' <<< "$response")
+
+          cat > stats.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+            <rect width="900" height="260" rx="16" fill="#0d1117"/>
+            <rect x="1" y="1" width="898" height="258" rx="16" fill="none" stroke="#30363d"/>
+
+            <text x="450" y="55" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#58a6ff">
+              GitHub Stats
+            </text>
+
+            <line x1="60" y1="80" x2="840" y2="80" stroke="#30363d"/>
+
+            <text x="180" y="130" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#e6edf3">
+              $contributions
+            </text>
+            <text x="180" y="158" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+              Contributions
+            </text>
+
+            <text x="400" y="130" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#e6edf3">
+              $repos
+            </text>
+            <text x="400" y="158" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+              Public Repositories
+            </text>
+
+            <text x="620" y="130" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#e6edf3">
+              $stars
+            </text>
+            <text x="620" y="158" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+              Total Stars
+            </text>
+
+            <text x="450" y="215" text-anchor="middle"
+              font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+              serakib • GitHub
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit stats.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg
+          git add stats.svg
           git commit -m "Update GitHub stats" || exit 0
           git push
