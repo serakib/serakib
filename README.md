@@ -123,10 +123,9 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img "https://github-readme-activity-graph-nine-ebon.vercel.app/" />
+<img src="https://github-readme-activity-graph-nine-ebon.vercel.app/graph?username=serakib&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f2744&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
 
 </div>
-
 ---
 
 ## Connect
