@@ -113,7 +113,7 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=serakib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
+<img src="./stats.svg" alt="GitHub Stats" />
 
 </div>
 ---
