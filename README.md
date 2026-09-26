@@ -113,10 +113,6 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=serakib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_radius=10" alt="GitHub Stats" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=serakib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 
 </div>
