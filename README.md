@@ -47,7 +47,7 @@ Every project is a new lesson.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=serakib&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="./trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ## Skills
