@@ -1,5 +1,5 @@
 name: Update GitHub Trophies
-
+ 
 on:
   workflow_dispatch:
   schedule:
