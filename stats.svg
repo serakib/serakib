@@ -1,5 +1,43 @@
-The deployment is currently unavailable
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <rect width="900" height="260" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="258" rx="16" fill="none" stroke="#30363d"/>
 
-DEPLOYMENT_PAUSED
+  <text x="450" y="55" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#58a6ff">
+    GitHub Stats
+  </text>
 
-iad1::tnsd2-1790407300554-51f366cacaca
+  <line x1="60" y1="80" x2="840" y2="80" stroke="#30363d"/>
+
+  <text x="180" y="130" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#e6edf3">
+    147
+  </text>
+  <text x="180" y="158" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+    Contributions
+  </text>
+
+  <text x="400" y="130" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#e6edf3">
+    8
+  </text>
+  <text x="400" y="158" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+    Public Repositories
+  </text>
+
+  <text x="620" y="130" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#e6edf3">
+    10
+  </text>
+  <text x="620" y="158" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+    Total Stars
+  </text>
+
+  <text x="450" y="215" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="15" fill="#8b949e">
+    serakib • GitHub
+  </text>
+</svg>
