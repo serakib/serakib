@@ -39,6 +39,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## About Me
 
 I am a student at Dhaka College studying Science, passionate about building things on the web.
@@ -46,6 +50,19 @@ Currently focused on frontend development, expanding into backend and automation
 Every project is a new lesson.
 
 [MIT](LICENSE)
+
+</td>
+<td width="45%" valign="top">
+
+<div align="center">
+
+<img src="./assets/current-status-arcade.svg" alt="Animated retro arcade current status: learning active, building active, deploying exploring" width="100%" />
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 <!-- Snake Game Repo View -->
@@ -56,11 +73,6 @@ Every project is a new lesson.
 
 ---
 
-<div align="center">
-
-<img src="./assets/current-status-arcade.svg" alt="Animated retro arcade current status: learning active, building active, deploying exploring" width="100%" />
-
-</div>
 
 ---
 
