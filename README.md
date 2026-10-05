@@ -45,6 +45,8 @@ I am a student at Dhaka College studying Science, passionate about building thin
 Currently focused on frontend development, expanding into backend and automation.
 Every project is a new lesson.
 
+[MIT](LICENSE)
+
 ---
 <!-- Snake Game Repo View -->
 
