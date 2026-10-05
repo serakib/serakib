@@ -144,15 +144,6 @@ Don't Take it Negatively  !  Just for Count Purpose.
 ---
 
 
-### Profile Views
-counting of visitors to this page in this section started from October 5, 2026
-
-Don't Take it Negatively  !  Just for Count Purpose.
-
-
-
-![](https://count.getloli.com/get/@serakib.github.readme)
-</br>
 
 
 
