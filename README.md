@@ -172,16 +172,19 @@ Don't Take it Negatively  !  Just for Count Purpose.
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top languages" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=serakib&theme=onedark&hide_border=false" alt="GitHub streak" />
-</div>
 
+<img src="https://github-readme-stats.shion.dev/api?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=serakib&theme=onedark&hide_border=false" alt="GitHub streak" />
+
+</div>
 ---
 
 ## My Build Pattern
