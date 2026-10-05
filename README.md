@@ -69,18 +69,24 @@ Every project is a new lesson.
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serakib/serakib/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serakib/serakib/output/github-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/serakib/serakib/output/github-snake.svg" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/serakib/serakib/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/serakib/serakib/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/serakib/serakib/output/github-snake.svg"
+  />
 </picture>
 
-</div>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/serakib/serakib/main/assets/divider.gif" width="100%">
 
 ---
 
