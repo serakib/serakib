@@ -163,7 +163,29 @@ Don't Take it Negatively  !  Just for Count Purpose.
 <img src="https://streak-stats.demolab.com?user=serakib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 
 </div>
+
 ---
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serakib&theme=github_dark" alt="GitHub profile statistics" width="47%" />
+
+<br />
+
+<a href="https://github.com/serakib">
+  <img src="./assets/monthly-activity-wave.svg" alt="Rakib's GitHub activity over the last 30 days" width="95%" />
+</a>
+
+
+
+</div>
+
+---
+
+
+
 
 ## Activity Graph
 
