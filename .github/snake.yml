@@ -18,3 +18,14 @@ jobs:
           outputs: |
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
+
+
+
+
+                  - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: .
+          build_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
