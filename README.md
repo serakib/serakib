@@ -44,6 +44,21 @@ Every project is a new lesson.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
+
+### Profile Views
+counting of visitors to this page in this section started from October 5, 2026
+
+Don't Take it Negatively  !  Just for Count Purpose.
+
+
+
+![](https://count.getloli.com/get/@serakib.github.readme)
+</br>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
