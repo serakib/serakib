@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Animated machine learning build pipeline</title>
+  <desc id="desc">Raw data flows through questions, feature engineering, baselines, evaluation, and finally becomes a usable demo.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101824"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35d0ba"/>
+      <stop offset="0.5" stop-color="#5ea7ff"/>
+      <stop offset="1" stop-color="#f5c451"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#243247" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <path id="flowPath" d="M 115 132 H 1085"/>
+  </defs>
+
+  <rect width="1200" height="270" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="270" rx="18" fill="url(#grid)"/>
+  <rect x="28" y="26" width="1144" height="218" rx="14" fill="#0d1117" stroke="#2d3d53" stroke-width="2"/>
+
+  <text x="58" y="63" fill="#8190a6" font-family="monospace" font-size="14">ML BUILD PIPELINE</text>
+  <circle cx="1110" cy="58" r="5" fill="#35d0ba">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1123" y="63" fill="#8190a6" font-family="monospace" font-size="12">RUNNING</text>
+
+  <path d="M 115 132 H 1085" fill="none" stroke="#233147" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 115 132 H 1085" fill="none" stroke="url(#track)" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+
+  <circle r="7" fill="#f5c451" filter="url(#softGlow)">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#flowPath"/>
+    </animateMotion>
+  </circle>
+  <circle r="3" fill="#ffffff">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#flowPath"/>
+    </animateMotion>
+  </circle>
+
+  <g transform="translate(115 132)">
+    <circle r="24" fill="#11251f" stroke="#35d0ba" stroke-width="3">
+      <animate attributeName="r" values="24;29;24" dur="6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <text y="6" text-anchor="middle" fill="#35d0ba" font-family="monospace" font-size="16" font-weight="700">01</text>
+  </g>
+  <text x="115" y="184" text-anchor="middle" fill="#f4f7fb" font-family="monospace" font-size="15" font-weight="700">RAW DATA</text>
+  <text x="115" y="207" text-anchor="middle" fill="#7f8ea4" font-family="monospace" font-size="11">collect + inspect</text>
+
+  <g transform="translate(309 132)">
+    <circle r="24" fill="#13202b" stroke="#45c5cf" stroke-width="3">
+      <animate attributeName="r" values="24;29;24" dur="6s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="6s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <text y="6" text-anchor="middle" fill="#45c5cf" font-family="monospace" font-size="16" font-weight="700">02</text>
+  </g>
+  <text x="309" y="184" text-anchor="middle" fill="#f4f7fb" font-family="monospace" font-size="15" font-weight="700">QUESTIONS</text>
+  <text x="309" y="207" text-anchor="middle" fill="#7f8ea4" font-family="monospace" font-size="11">frame the problem</text>
+
+  <g transform="translate(503 132)">
+    <circle r="24" fill="#14202d" stroke="#53b5e9" stroke-width="3">
+      <animate attributeName="r" values="24;29;24" dur="6s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="6s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <text y="6" text-anchor="middle" fill="#53b5e9" font-family="monospace" font-size="16" font-weight="700">03</text>
+  </g>
+  <text x="503" y="184" text-anchor="middle" fill="#f4f7fb" font-family="monospace" font-size="15" font-weight="700">FEATURES</text>
+  <text x="503" y="207" text-anchor="middle" fill="#7f8ea4" font-family="monospace" font-size="11">clean + engineer</text>
+
+  <g transform="translate(697 132)">
+    <circle r="24" fill="#17202d" stroke="#6a9cf5" stroke-width="3">
+      <animate attributeName="r" values="24;29;24" dur="6s" begin="3s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="6s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+    <text y="6" text-anchor="middle" fill="#6a9cf5" font-family="monospace" font-size="16" font-weight="700">04</text>
+  </g>
+  <text x="697" y="184" text-anchor="middle" fill="#f4f7fb" font-family="monospace" font-size="15" font-weight="700">BASELINES</text>
+  <text x="697" y="207" text-anchor="middle" fill="#7f8ea4" font-family="monospace" font-size="11">compare models</text>
+
+  <g transform="translate(891 132)">
+    <circle r="24" fill="#22202a" stroke="#b68cdb" stroke-width="3">
+      <animate attributeName="r" values="24;29;24" dur="6s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="6s" begin="4s" repeatCount="indefinite"/>
+    </circle>
+    <text y="6" text-anchor="middle" fill="#b68cdb" font-family="monospace" font-size="16" font-weight="700">05</text>
+  </g>
+  <text x="891" y="184" text-anchor="middle" fill="#f4f7fb" font-family="monospace" font-size="15" font-weight="700">EVALUATE</text>
+  <text x="891" y="207" text-anchor="middle" fill="#7f8ea4" font-family="monospace" font-size="11">measure honestly</text>
+
+  <g transform="translate(1085 132)">
+    <circle r="24" fill="#29251a" stroke="#f5c451" stroke-width="3">
+      <animate attributeName="r" values="24;29;24" dur="6s" begin="5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="6s" begin="5s" repeatCount="indefinite"/>
+    </circle>
+    <text y="6" text-anchor="middle" fill="#f5c451" font-family="monospace" font-size="16" font-weight="700">06</text>
+  </g>
+  <text x="1085" y="184" text-anchor="middle" fill="#f4f7fb" font-family="monospace" font-size="15" font-weight="700">USABLE DEMO</text>
+  <text x="1085" y="207" text-anchor="middle" fill="#7f8ea4" font-family="monospace" font-size="11">ship + learn</text>
+</svg>
