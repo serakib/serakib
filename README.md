@@ -156,12 +156,13 @@ Don't Take it Negatively  !  Just for Count Purpose.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=serakib&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" />
-
+<img src="https://github-readme-stats.shion.dev/api?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top languages" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=serakib&theme=onedark&hide_border=false" alt="GitHub streak" />
 </div>
 
 ---
