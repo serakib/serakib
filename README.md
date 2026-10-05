@@ -172,12 +172,6 @@ Don't Take it Negatively  !  Just for Count Purpose.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serakib&theme=github_dark" alt="GitHub profile statistics" width="47%" />
 
-<br />
-
-<a href="https://github.com/serakib">
-  <img src="./assets/monthly-activity-wave.svg" alt="Rakib's GitHub activity over the last 30 days" width="95%" />
-</a>
-
 
 
 </div>
