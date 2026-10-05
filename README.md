@@ -125,11 +125,16 @@ Every project is a new lesson.
 <img src="https://github-readme-activity-graph-nine-ebon.vercel.app/graph?username=serakib&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f2744&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
 
 </div>
+
 ---
 
 
 ### Profile Views
 counting of visitors to this page in this section started from October 5, 2026
+
+Don't Take it Negatively  !  Just for Count Purpose.
+
+
 
 ![](https://count.getloli.com/get/@serakib.github.readme)
 </br>
