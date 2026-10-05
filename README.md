@@ -166,6 +166,20 @@ Don't Take it Negatively  !  Just for Count Purpose.
 
 ---
 
+## My Build Pattern
+
+<div align="center">
+
+<img src="./assets/build-pipeline.svg" alt="Animated pipeline from raw data to usable demo" width="100%" />
+
+</div>
+
+I compare meaningful models, document trade-offs, preserve reproducible workflows, and keep the limitations visible.
+
+
+
+---
+
 ## GitHub Overview
 
 <div align="center">
