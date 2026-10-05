@@ -176,15 +176,16 @@ Don't Take it Negatively  !  Just for Count Purpose.
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=serakib&show_icons=true&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=serakib&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serakib&theme=onedark&hide_border=false&layout=compact&cache_seconds=86400" height="180" alt="Top languages" />
 
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=serakib&theme=onedark&hide_border=false" alt="GitHub streak" />
 
 </div>
+
 ---
 
 ## My Build Pattern
