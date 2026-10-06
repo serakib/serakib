@@ -55,9 +55,8 @@
 
   <h2>
     
-## About Me
-
- <img
+## About Me  
+  <img
       height="40"
       alt="Mwaki Denis"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
@@ -88,6 +87,12 @@ Every project is a new lesson.
 
 ## 🐍 CONTRIBUTION SNAKE
 
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -113,6 +118,13 @@ Every project is a new lesson.
 ---
 
 ### Profile Views
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+    
 counting of visitors to this page in this section started from October 5, 2026
 
 Reload the Page & Observe What's Happen then  !  
@@ -129,11 +141,25 @@ Don't Take it Negatively  !  Just for Count Purpose.
 
 ## 🏆 GitHub Trophies
 
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+    
+
 <p align="center">
   <img src="./trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ## Skills
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+    
 
 <div align="center">
 
@@ -150,6 +176,12 @@ Don't Take it Negatively  !  Just for Count Purpose.
 ---
 
 ## Projects
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
 
 <div align="center">
 
@@ -193,6 +225,12 @@ Don't Take it Negatively  !  Just for Count Purpose.
 ---
 ## 📊 GitHub Stats
 
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=serakib&show_icons=true&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub stats" />
@@ -209,6 +247,12 @@ Don't Take it Negatively  !  Just for Count Purpose.
 
 ## My Build Pattern
 
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+
 <div align="center">
 
 <img src="./assets/build-pipeline.svg" alt="Animated pipeline from raw data to usable demo" width="100%" />
@@ -222,6 +266,12 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 ---
 
 ## GitHub Overview
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
 
 <div align="center">
 
@@ -238,6 +288,12 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 ## Activity Graph
 
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph-nine-ebon.vercel.app/graph?username=serakib&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f2744&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
@@ -251,6 +307,12 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 
 ## Connect
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
 
 <div align="center">
 
