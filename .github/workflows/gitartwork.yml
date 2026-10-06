@@ -12,5 +12,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
           user_name: serakib
-          text: RAKIB HASAN
+          text: SE RAKIB
       - uses: jasineri/simple-push-action@v1
