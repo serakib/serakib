@@ -112,6 +112,13 @@ Every project is a new lesson.
 
 <img src="https://raw.githubusercontent.com/serakib/serakib/main/assets/divider.gif" width="100%">
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+the+web%2C+one+line+at+a+time.;Dhaka+College+%7C+HSC+2027+%7C+Science.;Learning+every+single+day." alt="Typing" />
+
+<br/><br/>
+
+
 ![gitartwork](gitartwork.svg)
 
 
