@@ -53,6 +53,12 @@
 
 ## About Me
 
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+
 I am a student at Dhaka College studying Science, passionate about building things on the web.
 Currently focused on frontend development, expanding into backend and automation.
 Every project is a new lesson.
