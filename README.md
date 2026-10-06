@@ -1,4 +1,12 @@
 <div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="100%" 
+    style="max-width:100%; height:auto;"
+  />
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2744,80:1a3a5c,100:1f6feb&height=220&section=header&text=MD.%20RAKIB%20HASAN&fontSize=52&fontColor=e6edf3&fontAlignY=42&desc=serakib%20%7C%20Software%20Developer%20%7C%20HSC%202027&descSize=15&descAlignY=62&animation=fadeIn" width="100%"/>
 
