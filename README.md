@@ -51,7 +51,10 @@
 <tr>
 <td width="55%" valign="top">
 
-<h2>
+<div align="center">
+
+  <h2>
+    
 ## About Me
 
  <img
@@ -59,7 +62,9 @@
       alt="Mwaki Denis"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
     />
-</h2>
+
+  </h2>
+</div>
 
 I am a student at Dhaka College studying Science, passionate about building things on the web.
 Currently focused on frontend development, expanding into backend and automation.
