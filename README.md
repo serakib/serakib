@@ -117,6 +117,14 @@ Every project is a new lesson.
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<div align="center">
+
+  <h2>
+
 ### Profile Views
 
  <img
@@ -124,6 +132,7 @@ Every project is a new lesson.
       alt="Mwaki Denis"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
     />
+    </h2>
     
 counting of visitors to this page in this section started from October 5, 2026
 
