@@ -427,9 +427,12 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 ---
 
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,60:0f2744,100:0d1117&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+
 
 ###### serakib © 2026  Crafted with ❤️
 
