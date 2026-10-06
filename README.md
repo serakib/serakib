@@ -417,6 +417,8 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,60:0f2744,100:0d1117&height=110&section=footer" width="100%"/>
 
+###### serakib © 2026  Crafted with ❤️
+
 <sub>Copyright (c) 2026 &nbsp;&bull;&nbsp; Md.Rakib Hasan &nbsp;&bull;&nbsp; Dhaka, Bangladesh &nbsp;&bull;&nbsp; 2026</sub>
 
 </div>
