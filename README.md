@@ -74,7 +74,7 @@ Every project is a new lesson.
 
 <div align="center">
 
-<img src="./assets/current-status-arcade.svg" alt="Animated retro arcade current status: learning active, building active, deploying exploring" width="100%" />
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 </div>
 
