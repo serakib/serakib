@@ -141,10 +141,11 @@ Reload the Page & Observe What's Happen then  !
 Don't Take it Negatively  !  Just for Count Purpose.
 
 
-
+<div align="center">
 
 ![](https://count.getloli.com/get/@serakib.github.readme)
 </br>
+</div>
 
 </td>
 <td width="45%" valign="top">
