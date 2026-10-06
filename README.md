@@ -112,7 +112,7 @@ Every project is a new lesson.
 
 <img src="https://raw.githubusercontent.com/serakib/serakib/main/assets/divider.gif" width="100%">
 
-[![serakib's gitartwork](gitartwork.yml)](https://github.com/serakib)
+[![serakib's gitartwork](gitartwork.svg)](https://github.com/serakib)
 
 ---
 
