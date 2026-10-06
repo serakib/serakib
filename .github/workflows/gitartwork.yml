@@ -1,6 +1,8 @@
 name: gitartwork from a contribution graph
 on:
   push:
+permissions:
+  contents: write
 jobs:
   build:
     name: Make gitartwork SVG
