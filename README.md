@@ -62,7 +62,7 @@
       alt="Mwaki Denis"
       src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
     />
-
+</h2>
   
 I am a student at Dhaka College studying Science, passionate about building things on the web.
 Currently focused on frontend development, expanding into backend and automation.
