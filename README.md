@@ -146,6 +146,20 @@ Don't Take it Negatively  !  Just for Count Purpose.
 ![](https://count.getloli.com/get/@serakib.github.readme)
 </br>
 
+</td>
+<td width="45%" valign="top">
+
+<div align="center">
+
+<img src="./assets/current-status-arcade.svg" alt="Animated retro arcade current status: learning active, building active, deploying exploring" width="100%" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+
 ---
 
 ## 🏆 GitHub Trophies
