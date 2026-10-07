@@ -427,11 +427,19 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 ---
 
+---
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+---
+Would you ike to meet me?
 
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
+
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+
 
 
 ###### serakib © 2026  Crafted with ❤️
