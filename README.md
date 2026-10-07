@@ -386,6 +386,8 @@ I compare meaningful models, document trade-offs, preserve reproducible workflow
 
 </div>
 
+# Note:New quotes will constantly come few times a day.So,Visit later to get motivated for next coding.Thanks For your sopprt.
+
 ---
 
 
