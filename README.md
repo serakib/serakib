@@ -237,7 +237,7 @@ Every project is a new lesson.
     <td align="center" width="240">
       <strong>Pixel Miner</strong><br/>
       <sub>A minecraft model game for entertainment</sub><br/><br/>
-      <a href="https://serakib.github.io/pixel-mine2/">
+      <a href="https://serakib.github.io/pixel-miner2/">
         <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
