@@ -40,7 +40,7 @@
   name     :  Md.Rakib Hasan
   username :  serakib
   role     :  Aspiring Software Engineer
-  college  :  Dhaka College  |  HSC 2027  |  Science
+  college  :  Dhaka College  |  HSC 2027  |  Science | Section:F | Roll:776
   location :  Dhaka, Bangladesh
   goal     :  "Try something new"
 ```
