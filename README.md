@@ -210,20 +210,22 @@ Every project is a new lesson.
 
 <div align="center">
 
-### A-SOUL
-![](https://count.getloli.com/get/@serakib.github.readme?theme=asoul)
+### Theme previews (open to view)
 
-### AI-1
-![](https://count.getloli.com/get/@serakib.github.readme?theme=ai-1)
+These are links, not auto-loading images, so they do not increase the live counter on every profile reload.
 
-### Booru VP
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-vp)
-
-### Booru SMTG
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-smtg)
-
-
-</br>
+- [A-SOUL](https://count.getloli.com/get/@serakib.github.readme?theme=asoul)
+- [AI-1](https://count.getloli.com/get/@serakib.github.readme?theme=ai-1)
+- [Booru VP](https://count.getloli.com/get/@serakib.github.readme?theme=booru-vp)
+- [Booru SMTG](https://count.getloli.com/get/@serakib.github.readme?theme=booru-smtg)
+- [Booru VE](https://count.getloli.com/get/@serakib.github.readme?theme=booru-ve)
+- [EVA](https://count.getloli.com/get/@serakib.github.readme?theme=eva)
+- [Booru Lisu](https://count.getloli.com/get/@serakib.github.readme?theme=booru-lisu)
+- [Original New](https://count.getloli.com/get/@serakib.github.readme?theme=original-new)
+- [Cat Girls Yay](https://count.getloli.com/get/@serakib.github.readme?theme=cat-girls-yay)
+- [Booru Nandroid](https://count.getloli.com/get/@serakib.github.readme?theme=booru-nandroid)
+- [Booru TWI Fanart SFW](https://count.getloli.com/get/@serakib.github.readme?theme=booru-twifanartsfw)
+- [Booru Snyde](https://count.getloli.com/get/@serakib.github.readme?theme=booru-snyde)
 </div>
 
 </td>
