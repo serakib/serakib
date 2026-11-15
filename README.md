@@ -161,7 +161,7 @@ Every project is a new lesson.
 
 ![](https://count.getloli.com/get/@serakib.github.readme)
 
-![:name](https://count.getloli.com/@:serakib.github.readme)
+
 </br>
 </div>
 
