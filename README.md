@@ -210,10 +210,17 @@ Every project is a new lesson.
 
 <div align="center">
 
-![:serakib-vp](https://count.getloli.com/@serakib-vp?theme=booru-vp)
-![:serakib-nandroid](https://count.getloli.com/@serakib-nandroid?theme=booru-nandroid)
-![:serakib-twifanart](https://count.getloli.com/@serakib-twifanart?theme=booru-twifanartsfw)
-![:serakib-snyde](https://count.getloli.com/@serakib-snyde?theme=booru-snyde)
+### A-SOUL
+![](https://count.getloli.com/get/@serakib.github.readme?theme=asoul)
+
+### AI-1
+![](https://count.getloli.com/get/@serakib.github.readme?theme=ai-1)
+
+### Booru VP
+![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-vp)
+
+### Booru SMTG
+![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-smtg)
 
 
 </br>
@@ -224,15 +231,29 @@ Every project is a new lesson.
 
 <div align="center">
 
-![:serakib-asoul](https://count.getloli.com/@serakib-asoul?theme=asoul)
-![:serakib-ai1](https://count.getloli.com/@serakib-ai1?theme=ai-1)
-![:serakib-smtg](https://count.getloli.com/@serakib-smtg?theme=booru-smtg)
-![:serakib-ve](https://count.getloli.com/@serakib-ve?theme=booru-ve)
-![:serakib-eva](https://count.getloli.com/@serakib-eva?theme=eva)
-![:serakib-lisu](https://count.getloli.com/@serakib-lisu?theme=booru-lisu)
-![:serakib-original](https://count.getloli.com/@serakib-original?theme=original-new)
-![:serakib-catgirls](https://count.getloli.com/@serakib-catgirls?theme=cat-girls-yay)
+### Booru VE
+![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-ve)
 
+### EVA
+![](https://count.getloli.com/get/@serakib.github.readme?theme=eva)
+
+### Booru Lisu
+![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-lisu)
+
+### Original New
+![](https://count.getloli.com/get/@serakib.github.readme?theme=original-new)
+
+### Cat Girls Yay
+![](https://count.getloli.com/get/@serakib.github.readme?theme=cat-girls-yay)
+
+### Booru Nandroid
+![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-nandroid)
+
+### Booru TWI Fanart SFW
+![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-twifanartsfw)
+
+### Booru Snyde
+![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-snyde)
 </div>
 
 </td>
