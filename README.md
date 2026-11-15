@@ -252,6 +252,93 @@ Every project is a new lesson.
 </tr>
 </table>
 
+
+
+
+
+---
+
+## 🏆 GitHub Trophies
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+    
+
+<p align="center">
+  <img src="./trophy.svg" alt="GitHub Trophies" />
+</p>
+
+## Skills
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+    
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,netlify,vscode&perline=8" alt="Skills" />
+
+<br/><br/>
+
+| Skill | Proficiency |
+|:---|:---|
+| HTML5 | `████████████████████` 80% |
+| CSS3 | `█████████████████░░░` 65% |
+| JavaScript | `██████████████░░░░░░` 40% |
+| C Programming | `█████████░░░░░░░░░░░` 30% |
+---
+
+## Projects
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="240">
+      <strong>Fallrush</strong><br/>
+      <sub>A creative game for fun</sub><br/><br/>
+      <a href="https://serakib.github.io/Fallrush/">
+        <img src="https://img.shields.io/badge/Open_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="240">
+      <strong>Pixel Miner v1.0.04</strong><br/>
+      <sub>A minecraft model game for entertainment</sub><br/><br/>
+      <a href="https://serakib.github.io/pixel-miner2/">
+        <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="240">
+      <strong>Personal Blog</strong><br/>
+      <sub>Articles, notes and dev writeups</sub><br/><br/>
+      <a href="https://medium.com/@rakibhasan27">
+        <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="240">
+      <strong>Medical Admission Model Test</strong><br/>
+      <sub>A free Medical Admission Model Test Website.</sub><br/><br/>
+      <a href="https://serakib.github.io/Medical-Admission-Tracker/">
+        <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
