@@ -191,32 +191,32 @@ Every project is a new lesson.
 </td></tr>
 <tr>
 <td width="33.333%" align="center" valign="top">
-<img src="https://count.getloli.com/@srk.preview.asoul?theme=asoul" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-vp?theme=booru-vp" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-ve?theme=booru-ve" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-lisu?theme=booru-lisu" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.cat-girls-yay?theme=cat-girls-yay" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-twifanartsfw?theme=booru-twifanartsfw" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.minecraft?theme=minecraft" alt="" width="100%" />
+<img src="https://count.getloli.com/@srk.preview?theme=asoul" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-vp" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-ve" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-lisu" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=cat-girls-yay" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-twifanartsfw" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=minecraft" alt="" width="100%" />
 </td>
 <td width="33.333%" align="center" valign="top">
-<img src="https://count.getloli.com/@srk.preview.ai-1?theme=ai-1" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-smtg?theme=booru-smtg" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.eva?theme=eva" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.original-new?theme=original-new" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-nandroid?theme=booru-nandroid" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-snyde?theme=booru-snyde" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.kasuterura-4?theme=kasuterura-4" alt="" width="100%" />
+<img src="https://count.getloli.com/@srk.preview?theme=ai-1" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-smtg" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=eva" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=original-new" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-nandroid" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-snyde" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=kasuterura-4" alt="" width="100%" />
 </td>
 <td width="33.333%" align="center" valign="top">
-<img src="https://count.getloli.com/@srk.preview.booru-helltaker?theme=booru-helltaker" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-huggboo?theme=booru-huggboo" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-jaypee?theme=booru-jaypee" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-koe?theme=booru-koe" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-r6gdrawfriends?theme=booru-r6gdrawfriends" alt="" width="100%" /><br/>
-<img src="https://count.getloli.com/@srk.preview.booru-touhoulat?theme=booru-touhoulat" alt="" width="100%" />
-  <img src="https://count.getloli.com/@srk.preview.rule34?theme=rule34" alt="" width="100%" />
-  <img src="https://count.getloli.com/@srk.preview.booru-lewd?theme=booru-lewd" alt="" width="100%" />
+<img src="https://count.getloli.com/@srk.preview?theme=booru-helltaker" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-huggboo" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-jaypee" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-koe" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-r6gdrawfriends" alt="" width="100%" /><br/>
+<img src="https://count.getloli.com/@srk.preview?theme=booru-touhoulat" alt="" width="100%" />
+  <img src="https://count.getloli.com/@srk.preview?theme=rule34" alt="" width="100%" />
+  <img src="https://count.getloli.com/@srk.preview?theme=booru-lewd" alt="" width="100%" />
 </td>
 </tr>
 </table>
