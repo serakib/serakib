@@ -160,6 +160,8 @@ Every project is a new lesson.
 <div align="center">
 
 ![](https://count.getloli.com/get/@serakib.github.readme)
+
+![:name](https://count.getloli.com/@:booru-jaypee)
 </br>
 </div>
 
