@@ -236,19 +236,19 @@ Every project is a new lesson.
 ![](https://count.getloli.com/get/@serakib.github.readme.booru-lisu?theme=booru-lisu)
 
 ### Original New
-![](https://count.getloli.com/get/@serakib.github.readme.original-new?theme=original-new)
+<img src="https://count.getloli.com/get/@serakib.github.readme.original-new?theme=original-new" alt="Original New" />
 
 ### Cat Girls Yay
-![](https://count.getloli.com/get/@serakib.github.readme.cat-girls-yay?theme=cat-girls-yay)
+<img src="https://count.getloli.com/get/@serakib.github.readme.cat-girls-yay?theme=cat-girls-yay" alt="Cat Girls Yay" />
 
 ### Booru Nandroid
-![](https://count.getloli.com/get/@serakib.github.readme.booru-nandroid?theme=booru-nandroid)
+<img src="https://count.getloli.com/get/@serakib.github.readme.booru-nandroid?theme=booru-nandroid" alt="Booru Nandroid" />
 
 ### Booru TWI Fanart SFW
-![](https://count.getloli.com/get/@serakib.github.readme.booru-twifanartsfw?theme=booru-twifanartsfw)
+<img src="https://count.getloli.com/get/@serakib.github.readme.booru-twifanartsfw?theme=booru-twifanartsfw" alt="Booru TWI Fanart SFW" />
 
 ### Booru Snyde
-![](https://count.getloli.com/get/@serakib.github.readme.booru-snyde?theme=booru-snyde)
+<img src="https://count.getloli.com/get/@serakib.github.readme.booru-snyde?theme=booru-snyde" alt="Booru Snyde" />
 
 </div>
 
