@@ -184,7 +184,7 @@ Every project is a new lesson.
 
 <table>
 <tr>
-<td colspan="2">
+<td colspan="3">
 <div align="center">
 
 <h2>Counting Views</h2>
@@ -203,49 +203,98 @@ Every project is a new lesson.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 <div align="center">
 
-### A-SOUL
+**A-SOUL**
+
 ![A-SOUL](https://count.getloli.com/@serakib.github.readme?theme=asoul)
 
-### Booru VP
+**Booru VP**
+
 ![Booru VP](https://count.getloli.com/@serakib.github.readme?theme=booru-vp)
 
-### Booru VE
+**Booru VE**
+
 ![Booru VE](https://count.getloli.com/@serakib.github.readme?theme=booru-ve)
 
-### Booru Lisu
+**Booru Lisu**
+
 ![Booru Lisu](https://count.getloli.com/@serakib.github.readme?theme=booru-lisu)
 
-### Cat Girls Yay
+**Cat Girls Yay**
+
 ![Cat Girls Yay](https://count.getloli.com/@serakib.github.readme?theme=cat-girls-yay)
 
-### Booru TWI Fanart SFW
+**Booru TWI Fanart SFW**
+
 ![Booru TWI Fanart SFW](https://count.getloli.com/@serakib.github.readme?theme=booru-twifanartsfw)
+
+**Minecraft**
+
+![Minecraft](https://count.getloli.com/@serakib.github.readme?theme=minecraft)
 
 </div>
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 <div align="center">
 
-### AI-1
+**AI-1**
+
 ![AI-1](https://count.getloli.com/@serakib.github.readme?theme=ai-1)
 
-### Booru SMTG
+**Booru SMTG**
+
 ![Booru SMTG](https://count.getloli.com/@serakib.github.readme?theme=booru-smtg)
 
-### EVA
+**EVA**
+
 ![EVA](https://count.getloli.com/@serakib.github.readme?theme=eva)
 
-### Original New
+**Original New**
+
 ![Original New](https://count.getloli.com/@serakib.github.readme?theme=original-new)
 
-### Booru Nandroid
+**Booru Nandroid**
+
 ![Booru Nandroid](https://count.getloli.com/@serakib.github.readme?theme=booru-nandroid)
 
-### Booru Snyde
+**Booru Snyde**
+
 ![Booru Snyde](https://count.getloli.com/@serakib.github.readme?theme=booru-snyde)
+
+**Kasuterura-4**
+
+![Kasuterura-4](https://count.getloli.com/@serakib.github.readme?theme=kasuterura-4)
+
+</div>
+</td>
+<td width="33.33%" valign="top">
+<div align="center">
+
+**Booru Helltaker**
+
+![Booru Helltaker](https://count.getloli.com/@serakib.github.readme?theme=booru-helltaker)
+
+**Booru Huggboo**
+
+![Booru Huggboo](https://count.getloli.com/@serakib.github.readme?theme=booru-huggboo)
+
+**Booru Jaypee**
+
+![Booru Jaypee](https://count.getloli.com/@serakib.github.readme?theme=booru-jaypee)
+
+**Booru Koe**
+
+![Booru Koe](https://count.getloli.com/@serakib.github.readme?theme=booru-koe)
+
+**Booru R6G Draw Friends**
+
+![Booru R6G Draw Friends](https://count.getloli.com/@serakib.github.readme?theme=booru-r6gdrawfriends)
+
+**Booru Touhoulat**
+
+![Booru Touhoulat](https://count.getloli.com/@serakib.github.readme?theme=booru-touhoulat)
 
 </div>
 </td>
