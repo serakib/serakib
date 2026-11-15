@@ -233,29 +233,13 @@ These are links, not auto-loading images, so they do not increase the live count
 
 <div align="center">
 
-### Booru VE
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-ve)
 
-### EVA
-![](https://count.getloli.com/get/@serakib.github.readme?theme=eva)
 
-### Booru Lisu
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-lisu)
 
-### Original New
-![](https://count.getloli.com/get/@serakib.github.readme?theme=original-new)
 
-### Cat Girls Yay
-![](https://count.getloli.com/get/@serakib.github.readme?theme=cat-girls-yay)
 
-### Booru Nandroid
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-nandroid)
 
-### Booru TWI Fanart SFW
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-twifanartsfw)
 
-### Booru Snyde
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-snyde)
 </div>
 
 </td>
