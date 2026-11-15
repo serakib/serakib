@@ -18,10 +18,16 @@ const themes = [
 
 const statsUrl = `https://count.getloli.com/api/stats/series/${encodeURIComponent(counterId)}`;
 const statsResponse = await fetch(statsUrl, {
-  headers: { accept: "application/json" },
+  headers: {
+    accept: "application/json",
+    "user-agent": "Mozilla/5.0 (compatible; GitHubActions/1.0)",
+    referer: "https://count.getloli.com/",
+    origin: "https://count.getloli.com",
+  },
 });
 if (!statsResponse.ok) {
-  throw new Error(`Counter stats request failed: HTTP ${statsResponse.status}`);
+  const errorBody = (await statsResponse.text()).slice(0, 500);
+  throw new Error(`Counter stats request failed: HTTP ${statsResponse.status}; ${errorBody}`);
 }
 
 const stats = await statsResponse.json();
