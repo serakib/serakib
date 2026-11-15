@@ -211,6 +211,9 @@ Every project is a new lesson.
 <div align="center">
 
 ![:serakib-vp](https://count.getloli.com/@serakib-vp?theme=booru-vp)
+![:serakib-nandroid](https://count.getloli.com/@serakib-nandroid?theme=booru-nandroid)
+![:serakib-twifanart](https://count.getloli.com/@serakib-twifanart?theme=booru-twifanartsfw)
+![:serakib-snyde](https://count.getloli.com/@serakib-snyde?theme=booru-snyde)
 
 
 </br>
@@ -229,9 +232,7 @@ Every project is a new lesson.
 ![:serakib-lisu](https://count.getloli.com/@serakib-lisu?theme=booru-lisu)
 ![:serakib-original](https://count.getloli.com/@serakib-original?theme=original-new)
 ![:serakib-catgirls](https://count.getloli.com/@serakib-catgirls?theme=cat-girls-yay)
-![:serakib-nandroid](https://count.getloli.com/@serakib-nandroid?theme=booru-nandroid)
-![:serakib-twifanart](https://count.getloli.com/@serakib-twifanart?theme=booru-twifanartsfw)
-![:serakib-snyde](https://count.getloli.com/@serakib-snyde?theme=booru-snyde)
+
 </div>
 
 </td>
