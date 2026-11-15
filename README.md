@@ -177,15 +177,66 @@ Every project is a new lesson.
 </td>
 </tr>
 </table>
+
+
+---
+
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<div align="center">
+
+  <h2>
+
+### Counting Views
+
+ <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+    </h2>
+---
+  
+#counting of visitors to this page in this section started from October 5, 2026
+
+---
+
+#Reload the Page & Observe What's Happen then  !  
+
+---
+
+#Don't Take it Negatively  !  Just for Count Purpose.
+
 ---
 
 <div align="center">
 
-![:serakib-asoul](https://count.getloli.com/@serakib-asoul?theme=asoul)
+![:serakib-vp](https://count.getloli.com/@serakib-vp?theme=booru-vp)
 
 
 </br>
 </div>
+
+</td>
+<td width="45%" valign="top">
+
+<div align="center">
+
+![:serakib-asoul](https://count.getloli.com/@serakib-asoul?theme=asoul)
+![:serakib-ai1](https://count.getloli.com/@serakib-ai1?theme=ai-1)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+
+
+
 
 ---
 
