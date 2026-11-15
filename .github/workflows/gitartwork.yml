@@ -1,16 +1,54 @@
 name: gitartwork from a contribution graph
+
 on:
   push:
+  workflow_dispatch:
+
 permissions:
   contents: write
+
+concurrency:
+  group: gitartwork-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     name: Make gitartwork SVG
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: jasineri/gitartwork@v1
         with:
           user_name: serakib
           text: SE RAKIB
-      - uses: jasineri/simple-push-action@v1
+          svg_file_name: gitartwork.svg
+
+      - name: Commit and push generated SVG safely
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -- gitartwork.svg
+          if git diff --cached --quiet; then
+            echo "gitartwork.svg is already up to date."
+            exit 0
+          fi
+
+          git commit -m "Update gitartwork SVG"
+
+          for attempt in 1 2 3; do
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            sleep 2
+          done
+
+          echo "Could not push gitartwork.svg after 3 attempts."
+          exit 1
