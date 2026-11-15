@@ -184,163 +184,72 @@ Every project is a new lesson.
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
+<td colspan="2">
 <div align="center">
 
-  <h2>
-
-### Counting Views
-
-  </h2>
----
+<h2>Counting Views</h2>
 
 #counting of visitors to this page in this section started from October 5, 2026
 
 ---
 
-#Reload the Page & Observe What's Happen then  !  
+#Reload the Page & Observe What's Happen then !
 
 ---
 
-#Don't Take it Negatively  !  Just for Count Purpose.
-
----
-
-### A-SOUL
-![](https://count.getloli.com/@serakib.github.readme?theme=asoul)
-
-### AI-1
-![](https://count.getloli.com/@serakib.github.readme?theme=ai-1)
-
-### Booru VP
-![](https://count.getloli.com/@serakib.github.readme?theme=booru-vp)
-
-### Booru SMTG
-![](https://count.getloli.com/@serakib.github.readme?theme=booru-smtg)
+#Don't Take it Negatively ! Just for Count Purpose.
 
 </div>
-
 </td>
-<td width="45%" valign="top">
-
+</tr>
+<tr>
+<td width="50%" valign="top">
 <div align="center">
 
-### Booru VE
-![](https://count.getloli.com/@serakib.github.readme?theme=booru-ve)
+### A-SOUL
+![A-SOUL](https://count.getloli.com/@serakib.github.readme?theme=asoul)
 
-### EVA
-![](https://count.getloli.com/@serakib.github.readme?theme=eva)
+### Booru VP
+![Booru VP](https://count.getloli.com/@serakib.github.readme?theme=booru-vp)
+
+### Booru VE
+![Booru VE](https://count.getloli.com/@serakib.github.readme?theme=booru-ve)
 
 ### Booru Lisu
-![](https://count.getloli.com/@serakib.github.readme?theme=booru-lisu)
-
-### Original New
-![Original New](https://count.getloli.com/@serakib.github.readme?theme=original-new)
+![Booru Lisu](https://count.getloli.com/@serakib.github.readme?theme=booru-lisu)
 
 ### Cat Girls Yay
 ![Cat Girls Yay](https://count.getloli.com/@serakib.github.readme?theme=cat-girls-yay)
 
-### Booru Nandroid
-![Booru Nandroid](https://count.getloli.com/@serakib.github.readme?theme=booru-nandroid)
-
 ### Booru TWI Fanart SFW
 ![Booru TWI Fanart SFW](https://count.getloli.com/@serakib.github.readme?theme=booru-twifanartsfw)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+### AI-1
+![AI-1](https://count.getloli.com/@serakib.github.readme?theme=ai-1)
+
+### Booru SMTG
+![Booru SMTG](https://count.getloli.com/@serakib.github.readme?theme=booru-smtg)
+
+### EVA
+![EVA](https://count.getloli.com/@serakib.github.readme?theme=eva)
+
+### Original New
+![Original New](https://count.getloli.com/@serakib.github.readme?theme=original-new)
+
+### Booru Nandroid
+![Booru Nandroid](https://count.getloli.com/@serakib.github.readme?theme=booru-nandroid)
 
 ### Booru Snyde
 ![Booru Snyde](https://count.getloli.com/@serakib.github.readme?theme=booru-snyde)
 
 </div>
-
 </td>
 </tr>
-</table>
-
-
-
-
-
----
-
-## 🏆 GitHub Trophies
-
- <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-    
-
-<p align="center">
-  <img src="./trophy.svg" alt="GitHub Trophies" />
-</p>
-
-## Skills
-
- <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-    
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,netlify,vscode&perline=8" alt="Skills" />
-
-<br/><br/>
-
-| Skill | Proficiency |
-|:---|:---|
-| HTML5 | `████████████████████` 80% |
-| CSS3 | `█████████████████░░░` 65% |
-| JavaScript | `██████████████░░░░░░` 40% |
-| C Programming | `█████████░░░░░░░░░░░` 30% |
----
-
-## Projects
-
- <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="240">
-      <strong>Fallrush</strong><br/>
-      <sub>A creative game for fun</sub><br/><br/>
-      <a href="https://serakib.github.io/Fallrush/">
-        <img src="https://img.shields.io/badge/Open_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="240">
-      <strong>Pixel Miner v1.0.04</strong><br/>
-      <sub>A minecraft model game for entertainment</sub><br/><br/>
-      <a href="https://serakib.github.io/pixel-miner2/">
-        <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="240">
-      <strong>Personal Blog</strong><br/>
-      <sub>Articles, notes and dev writeups</sub><br/><br/>
-      <a href="https://medium.com/@rakibhasan27">
-        <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="240">
-      <strong>Medical Admission Model Test</strong><br/>
-      <sub>A free Medical Admission Model Test Website.</sub><br/><br/>
-      <a href="https://serakib.github.io/Medical-Admission-Tracker/">
-        <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 </div>
