@@ -182,98 +182,39 @@ Every project is a new lesson.
 ---
 
 
-<table>
-<tr>
-<td colspan="3">
-<div align="center">
-
+<table align="center" width="100%" cellpadding="8" cellspacing="0">
+<tr><td colspan="3" align="center">
 <h2>Counting Views</h2>
-
-#counting of visitors to this page in this section started from October 5, 2026
-
----
-
-#Reload the Page & Observe What's Happen then !
-
----
-
-#Don't Take it Negatively ! Just for Count Purpose.
-
-</div>
-</td>
-</tr>
+<p align="center">#counting of visitors to this page in this section started from October 5, 2026</p>
+<p align="center">#Reload the Page & Observe What's Happen then !</p>
+<p align="center">#Don't Take it Negatively ! Just for Count Purpose.</p>
+</td></tr>
 <tr>
-<td width="33.33%" valign="top" align="center">
-
-<h4>A-SOUL</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=asoul&num=1000" alt="A-SOUL" width="180" />
-<br><br>
-<h4>Booru VP</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-vp&num=1000" alt="Booru VP" width="180" />
-<br><br>
-<h4>Booru VE</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-ve&num=1000" alt="Booru VE" width="180" />
-<br><br>
-<h4>Booru Lisu</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-lisu&num=1000" alt="Booru Lisu" width="180" />
-<br><br>
-<h4>Cat Girls Yay</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=cat-girls-yay&num=1000" alt="Cat Girls Yay" width="180" />
-<br><br>
-<h4>Booru TWI Fanart SFW</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-twifanartsfw&num=1000" alt="Booru TWI Fanart SFW" width="180" />
-<br><br>
-<h4>Minecraft</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=minecraft&num=1000" alt="Minecraft" width="180" />
-<br><br>
-
+<td width="33.333%" align="center" valign="top">
+<img src="https://count.getloli.com/@serakib.github.readme?theme=asoul&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-vp&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-ve&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-lisu&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=cat-girls-yay&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-twifanartsfw&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=minecraft&amp;num=1000" alt="" width="170" />
 </td>
-<td width="33.33%" valign="top" align="center">
-
-<h4>AI-1</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=ai-1&num=1000" alt="AI-1" width="180" />
-<br><br>
-<h4>Booru SMTG</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-smtg&num=1000" alt="Booru SMTG" width="180" />
-<br><br>
-<h4>EVA</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=eva&num=1000" alt="EVA" width="180" />
-<br><br>
-<h4>Original New</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=original-new&num=1000" alt="Original New" width="180" />
-<br><br>
-<h4>Booru Nandroid</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-nandroid&num=1000" alt="Booru Nandroid" width="180" />
-<br><br>
-<h4>Booru Snyde</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-snyde&num=1000" alt="Booru Snyde" width="180" />
-<br><br>
-<h4>Kasuterura-4</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=kasuterura-4&num=1000" alt="Kasuterura-4" width="180" />
-<br><br>
-
+<td width="33.333%" align="center" valign="top">
+<img src="https://count.getloli.com/@serakib.github.readme?theme=ai-1&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-smtg&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=eva&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=original-new&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-nandroid&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-snyde&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=kasuterura-4&amp;num=1000" alt="" width="170" />
 </td>
-<td width="33.33%" valign="top" align="center">
-
-<h4>Booru Helltaker</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-helltaker&num=1000" alt="Booru Helltaker" width="180" />
-<br><br>
-<h4>Booru Huggboo</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-huggboo&num=1000" alt="Booru Huggboo" width="180" />
-<br><br>
-<h4>Booru Jaypee</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-jaypee&num=1000" alt="Booru Jaypee" width="180" />
-<br><br>
-<h4>Booru Koe</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-koe&num=1000" alt="Booru Koe" width="180" />
-<br><br>
-<h4>Booru R6G Draw Friends</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-r6gdrawfriends&num=1000" alt="Booru R6G Draw Friends" width="180" />
-<br><br>
-<h4>Booru Touhoulat</h4>
-<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-touhoulat&num=1000" alt="Booru Touhoulat" width="180" />
-<br><br>
-
+<td width="33.333%" align="center" valign="top">
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-helltaker&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-huggboo&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-jaypee&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-koe&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-r6gdrawfriends&amp;num=1000" alt="" width="170" /><br/><br/>
+<img src="https://count.getloli.com/@serakib.github.readme?theme=booru-touhoulat&amp;num=1000" alt="" width="170" />
 </td>
 </tr>
 </table>
