@@ -48,7 +48,7 @@ for (const image of images) {
   });
   const svg = await response.text();
 
-  if (!response.ok || !/<svg[\\s>]/i.test(svg)) {
+  if (!response.ok || !/<svg(?:\s|>)/i.test(svg)) {
     throw new Error(`Could not render ${image.file}: HTTP ${response.status}`);
   }
 
