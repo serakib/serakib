@@ -159,7 +159,9 @@ Every project is a new lesson.
 
 <div align="center">
 
-![](https://count.getloli.com/get/@serakib.github.readme)
+![Main visitor counter](./assets/counter-themes/main.svg)
+
+<img src="https://count.getloli.com/get/@serakib.github.readme" width="1" height="1" alt="" />
 
 
 </br>
@@ -210,17 +212,19 @@ Every project is a new lesson.
 
 <div align="center">
 
+<sub>All previews share one count snapshot and are automatically refreshed by GitHub Actions about every 15 minutes.</sub>
+
 ### A-SOUL
-![](https://count.getloli.com/get/@serakib.github.readme?theme=asoul)
+![A-SOUL](./assets/counter-themes/asoul.svg)
 
 ### AI-1
-![](https://count.getloli.com/get/@serakib.github.readme?theme=ai-1)
+![AI-1](./assets/counter-themes/ai-1.svg)
 
 ### Booru VP
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-vp)
+![Booru VP](./assets/counter-themes/booru-vp.svg)
 
 ### Booru SMTG
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-smtg)
+![Booru SMTG](./assets/counter-themes/booru-smtg.svg)
 
 
 </br>
@@ -232,28 +236,28 @@ Every project is a new lesson.
 <div align="center">
 
 ### Booru VE
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-ve)
+![Booru VE](./assets/counter-themes/booru-ve.svg)
 
 ### EVA
-![](https://count.getloli.com/get/@serakib.github.readme?theme=eva)
+![EVA](./assets/counter-themes/eva.svg)
 
 ### Booru Lisu
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-lisu)
+![Booru Lisu](./assets/counter-themes/booru-lisu.svg)
 
 ### Original New
-![](https://count.getloli.com/get/@serakib.github.readme?theme=original-new)
+![Original New](./assets/counter-themes/original-new.svg)
 
 ### Cat Girls Yay
-![](https://count.getloli.com/get/@serakib.github.readme?theme=cat-girls-yay)
+![Cat Girls Yay](./assets/counter-themes/cat-girls-yay.svg)
 
 ### Booru Nandroid
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-nandroid)
+![Booru Nandroid](./assets/counter-themes/booru-nandroid.svg)
 
 ### Booru TWI Fanart SFW
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-twifanartsfw)
+![Booru TWI Fanart SFW](./assets/counter-themes/booru-twifanartsfw.svg)
 
 ### Booru Snyde
-![](https://count.getloli.com/get/@serakib.github.readme?theme=booru-snyde)
+![Booru Snyde](./assets/counter-themes/booru-snyde.svg)
 </div>
 
 </td>
