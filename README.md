@@ -177,7 +177,15 @@ Every project is a new lesson.
 </td>
 </tr>
 </table>
+---
 
+<div align="center">
+
+![:serakib-asoul](https://count.getloli.com/@serakib-asoul?theme=asoul)
+
+
+</br>
+</div>
 
 ---
 
