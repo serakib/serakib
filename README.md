@@ -236,19 +236,19 @@ Every project is a new lesson.
 ![](https://count.getloli.com/get/@serakib.github.readme.booru-lisu?theme=booru-lisu)
 
 ### Original New
-<img src="https://count.getloli.com/get/@serakib.github.readme.original-new?theme=original-new" alt="Original New" />
+<img src="https://camo.githubusercontent.com/4c20b00e6aa7eb8ad92ff8a3d93f3f92407b21e02fdd5956afc7ffb4424ff23f/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40736572616b69622e6769746875622e726561646d652e6f726967696e616c2d6e65773f7468656d653d6f726967696e616c2d6e6577" alt="Original New" />
 
 ### Cat Girls Yay
-<img src="https://count.getloli.com/get/@serakib.github.readme.cat-girls-yay?theme=cat-girls-yay" alt="Cat Girls Yay" />
+<img src="https://camo.githubusercontent.com/1974a3d0277e695bbdd94fe991757fd0c6e42af90fa846a3f3eb76e8d5ec8241/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40736572616b69622e6769746875622e726561646d652e6361742d6769726c732d7961793f7468656d653d6361742d6769726c732d796179" alt="Cat Girls Yay" />
 
 ### Booru Nandroid
-<img src="https://count.getloli.com/get/@serakib.github.readme.booru-nandroid?theme=booru-nandroid" alt="Booru Nandroid" />
+<img src="https://camo.githubusercontent.com/23db7374d29a00762e49ca1dd9b4fb338a037d259eb56ac139f6a87092e5b766/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40736572616b69622e6769746875622e726561646d652e626f6f72752d6e616e64726f69643f7468656d653d626f6f72752d6e616e64726f6964" alt="Booru Nandroid" />
 
 ### Booru TWI Fanart SFW
-<img src="https://count.getloli.com/get/@serakib.github.readme.booru-twifanartsfw?theme=booru-twifanartsfw" alt="Booru TWI Fanart SFW" />
+<img src="https://camo.githubusercontent.com/c6dbb681e64549871a8b31082b5b0894b06a0cb6be08aa4d4aba73858e8f3d6e/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40736572616b69622e6769746875622e726561646d652e626f6f72752d74776966616e6172747366773f7468656d653d626f6f72752d74776966616e617274736677" alt="Booru TWI Fanart SFW" />
 
 ### Booru Snyde
-<img src="https://count.getloli.com/get/@serakib.github.readme.booru-snyde?theme=booru-snyde" alt="Booru Snyde" />
+<img src="https://camo.githubusercontent.com/f25c1222dc5702bac4b5d2851ab44f595383dd1a12a918d257c209350cf1a493/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40736572616b69622e6769746875622e726561646d652e626f6f72752d736e7964653f7468656d653d626f6f72752d736e796465" alt="Booru Snyde" />
 
 </div>
 
