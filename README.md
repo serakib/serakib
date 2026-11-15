@@ -208,16 +208,16 @@ Every project is a new lesson.
 ---
 
 ### A-SOUL
-![](https://count.samhou.moe/@serakib.github.readme.asoul?theme=asoul)
+![](https://count.getloli.com/@serakib.github.readme?theme=asoul)
 
 ### AI-1
-![](https://count.samhou.moe/@serakib.github.readme.ai-1?theme=ai-1)
+![](https://count.getloli.com/@serakib.github.readme?theme=ai-1)
 
 ### Booru VP
-![](https://count.samhou.moe/@serakib.github.readme.booru-vp?theme=booru-vp)
+![](https://count.getloli.com/@serakib.github.readme?theme=booru-vp)
 
 ### Booru SMTG
-![](https://count.samhou.moe/@serakib.github.readme.booru-smtg?theme=booru-smtg)
+![](https://count.getloli.com/@serakib.github.readme?theme=booru-smtg)
 
 </div>
 
@@ -227,28 +227,28 @@ Every project is a new lesson.
 <div align="center">
 
 ### Booru VE
-![](https://count.samhou.moe/@serakib.github.readme.booru-ve?theme=booru-ve)
+![](https://count.getloli.com/@serakib.github.readme?theme=booru-ve)
 
 ### EVA
-![](https://count.samhou.moe/@serakib.github.readme.eva?theme=eva)
+![](https://count.getloli.com/@serakib.github.readme?theme=eva)
 
 ### Booru Lisu
-![](https://count.samhou.moe/@serakib.github.readme.booru-lisu?theme=booru-lisu)
+![](https://count.getloli.com/@serakib.github.readme?theme=booru-lisu)
 
 ### Original New
-![Original New](https://count.samhou.moe/@serakib.github.readme.original-new?theme=original-new)
+![Original New](https://count.getloli.com/@serakib.github.readme?theme=original-new)
 
 ### Cat Girls Yay
-![Cat Girls Yay](https://count.samhou.moe/@serakib.github.readme.cat-girls-yay?theme=cat-girls-yay)
+![Cat Girls Yay](https://count.getloli.com/@serakib.github.readme?theme=cat-girls-yay)
 
 ### Booru Nandroid
-![Booru Nandroid](https://count.samhou.moe/@serakib.github.readme.booru-nandroid?theme=booru-nandroid)
+![Booru Nandroid](https://count.getloli.com/@serakib.github.readme?theme=booru-nandroid)
 
 ### Booru TWI Fanart SFW
-![Booru TWI Fanart SFW](https://count.samhou.moe/@serakib.github.readme.booru-twifanartsfw?theme=booru-twifanartsfw)
+![Booru TWI Fanart SFW](https://count.getloli.com/@serakib.github.readme?theme=booru-twifanartsfw)
 
 ### Booru Snyde
-![Booru Snyde](https://count.samhou.moe/@serakib.github.readme.booru-snyde?theme=booru-snyde)
+![Booru Snyde](https://count.getloli.com/@serakib.github.readme?theme=booru-snyde)
 
 </div>
 
