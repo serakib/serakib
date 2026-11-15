@@ -318,38 +318,77 @@ Every project is a new lesson.
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="240">
-      <strong>Fallrush</strong><br/>
-      <sub>A creative game for fun</sub><br/><br/>
-      <a href="https://serakib.github.io/Fallrush/">
-        <img src="https://img.shields.io/badge/Open_Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="240">
-      <strong>Pixel Miner v1.0.04</strong><br/>
-      <sub>A minecraft model game for entertainment</sub><br/><br/>
-      <a href="https://serakib.github.io/pixel-miner2/">
-        <img src="https://img.shields.io/badge/Open_Project-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="240">
-      <strong>Personal Blog</strong><br/>
-      <sub>Articles, notes and dev writeups</sub><br/><br/>
-      <a href="https://medium.com/@rakibhasan27">
-        <img src="https://img.shields.io/badge/Read_Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="240">
-      <strong>Medical Admission Model Test</strong><br/>
-      <sub>A free Medical Admission Model Test Website.</sub><br/><br/>
-      <a href="https://serakib.github.io/Medical-Admission-Tracker/">
-        <img src="https://img.shields.io/badge/Open_Project-FF5722?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+<div align="center">
+
+  <h2>
+
+### Counting Views
+
+  </h2>
+---
+
+#counting of visitors to this page in this section started from October 5, 2026
+
+---
+
+#Reload the Page & Observe What's Happen then  !  
+
+---
+
+#Don't Take it Negatively  !  Just for Count Purpose.
+
+---
+
+### A-SOUL
+![](https://count.getloli.com/get/@serakib.github.readme.asoul?theme=asoul)
+
+### AI-1
+![](https://count.getloli.com/get/@serakib.github.readme.ai-1?theme=ai-1)
+
+### Booru VP
+![](https://count.getloli.com/get/@serakib.github.readme.booru-vp?theme=booru-vp)
+
+### Booru SMTG
+![](https://count.getloli.com/get/@serakib.github.readme.booru-smtg?theme=booru-smtg)
+
+</div>
+
+</td>
+<td width="45%" valign="top">
+
+<div align="center">
+
+### Booru VE
+![](https://count.getloli.com/get/@serakib.github.readme.booru-ve?theme=booru-ve)
+
+### EVA
+![](https://count.getloli.com/get/@serakib.github.readme.eva?theme=eva)
+
+### Booru Lisu
+![](https://count.getloli.com/get/@serakib.github.readme.booru-lisu?theme=booru-lisu)
+
+### Original New
+![](https://count.getloli.com/get/@serakib.github.readme.original-new?theme=original-new)
+
+### Cat Girls Yay
+![](https://count.getloli.com/get/@serakib.github.readme.cat-girls-yay?theme=cat-girls-yay)
+
+### Booru Nandroid
+![](https://count.getloli.com/get/@serakib.github.readme.booru-nandroid?theme=booru-nandroid)
+
+### Booru TWI Fanart SFW
+![](https://count.getloli.com/get/@serakib.github.readme.booru-twifanartsfw?theme=booru-twifanartsfw)
+
+### Booru Snyde
+![](https://count.getloli.com/get/@serakib.github.readme.booru-snyde?theme=booru-snyde)
+
+</div>
+
+</td>
+</tr>
 </table>
 
 </div>
