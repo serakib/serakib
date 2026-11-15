@@ -192,12 +192,8 @@ Every project is a new lesson.
 
 ### Counting Views
 
- <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-    />
-    </h2>
+
+  </h2>
 ---
   
 #counting of visitors to this page in this section started from October 5, 2026
@@ -227,7 +223,15 @@ Every project is a new lesson.
 
 ![:serakib-asoul](https://count.getloli.com/@serakib-asoul?theme=asoul)
 ![:serakib-ai1](https://count.getloli.com/@serakib-ai1?theme=ai-1)
-
+![:serakib-smtg](https://count.getloli.com/@serakib-smtg?theme=booru-smtg)
+![:serakib-ve](https://count.getloli.com/@serakib-ve?theme=booru-ve)
+![:serakib-eva](https://count.getloli.com/@serakib-eva?theme=eva)
+![:serakib-lisu](https://count.getloli.com/@serakib-lisu?theme=booru-lisu)
+![:serakib-original](https://count.getloli.com/@serakib-original?theme=original-new)
+![:serakib-catgirls](https://count.getloli.com/@serakib-catgirls?theme=cat-girls-yay)
+![:serakib-nandroid](https://count.getloli.com/@serakib-nandroid?theme=booru-nandroid)
+![:serakib-twifanart](https://count.getloli.com/@serakib-twifanart?theme=booru-twifanartsfw)
+![:serakib-snyde](https://count.getloli.com/@serakib-snyde?theme=booru-snyde)
 </div>
 
 </td>
