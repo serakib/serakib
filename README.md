@@ -185,7 +185,7 @@ Every project is a new lesson.
 <table width="100%" cellpadding="1" cellspacing="0">
 <tr><td colspan="3" align="center">
 <h2>Counting Views</h2>
-<p align="center">#counting of visitors to this page in this section started from October 5, 2026</p>
+<p align="center">#counting of visitors to this page in this section started from November 15, 2026</p>
 <p align="center">#Reload the Page & Observe What's Happen then !</p>
 <p align="center">#Don't Take it Negatively ! Just for Count Purpose.</p>
 </td></tr>
