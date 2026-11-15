@@ -215,6 +215,8 @@ Every project is a new lesson.
 <img src="https://count.getloli.com/@srk.preview.booru-koe?theme=booru-koe" alt="" width="100%" /><br/>
 <img src="https://count.getloli.com/@srk.preview.booru-r6gdrawfriends?theme=booru-r6gdrawfriends" alt="" width="100%" /><br/>
 <img src="https://count.getloli.com/@srk.preview.booru-touhoulat?theme=booru-touhoulat" alt="" width="100%" />
+  <img src="https://count.getloli.com/@srk.preview.rule34?theme=rule34" alt="" width="100%" />
+  <img src="https://count.getloli.com/@srk.preview.booru-lewd?theme=booru-lewd" alt="" width="100%" />
 </td>
 </tr>
 </table>
